@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "StoryNest",
+    "slug": "storynest",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.moonleaf.storynest"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.moonleaf.storynest"
+    },
+    "react-native-google-mobile-ads": {
+      "android_app_id": "ca-app-pub-8963483528940562~6020664199",
+      "ios_app_id": "ca-app-pub-8963483528940562~6020664199"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "apiUrl": "localhost:4000",
+      "eas": {
+        "projectId": "eb0d21ee-5c0b-4321-87a8-76f6bdf661a6"
+      }
+    }
+  }
+}
