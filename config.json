@@ -36,7 +36,7 @@
       "favicon": "./assets/favicon.png"
     },
     "extra": {
-      "apiUrl": "https://unexercised-unfraudulently-stefania.ngrok-free.dev",
+      "apiUrl": "10.0.0.1:4000",
       "eas": {
         "projectId": "eb0d21ee-5c0b-4321-87a8-76f6bdf661a6"
       }
