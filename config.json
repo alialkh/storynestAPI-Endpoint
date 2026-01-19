@@ -36,7 +36,7 @@
       "favicon": "./assets/favicon.png"
     },
     "extra": {
-      "apiUrl": "10.0.0.42:4000",
+      "apiUrl": "storynest-pshiow.fly.dev",
       "eas": {
         "projectId": "eb0d21ee-5c0b-4321-87a8-76f6bdf661a6"
       }
