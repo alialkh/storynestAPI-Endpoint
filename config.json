@@ -37,7 +37,7 @@
     },
     "extra": {
       "apiUrl": "https://storynest-pshiow.fly.dev",
-      "devUrl": "http://10.0.0.42:4000", 
+      "devUrl": "http://10.14.69.44:4000", 
       "eas": {
         "projectId": "eb0d21ee-5c0b-4321-87a8-76f6bdf661a6"
       }
